@@ -1,0 +1,590 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Dorica-Regular
+FamilyName:Dorica
+StyleName:Regular
+MenuName:Dorica
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Dorica Regular
+WritingScript:Roman
+OutlineFileName:\Dorica-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:160448
+FileModTime:1377729146
+NameArray:0,Mac,4,Dorica Regular
+NameArray:0,Win,1,Dorica
+NameArray:0,Win,16,Dorica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Felice-Bold
+FamilyName:Felice
+StyleName:Bold
+MenuName:Felice
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Felice Bold
+WritingScript:Roman
+OutlineFileName:\Felice-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:103580
+FileModTime:1449408597
+NameArray:0,Mac,4,Felice Bold
+NameArray:0,Win,1,Felice
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Felice-Regular
+FamilyName:Felice
+StyleName:Regular
+MenuName:Felice
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Felice
+WritingScript:Roman
+OutlineFileName:\Felice-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:103848
+FileModTime:1449408597
+NameArray:0,Mac,4,Felice
+NameArray:0,Win,1,Felice
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Fitigraf
+FamilyName:Fitigraf
+StyleName:Regular
+MenuName:Fitigraf
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fitigraf
+WritingScript:Roman
+OutlineFileName:\Fitigraf.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:351224
+FileModTime:1367876176
+NameArray:0,Mac,4,Fitigraf
+NameArray:0,Win,1,Fitigraf
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HeliaCore
+FamilyName:Helia Core
+StyleName:Regular
+MenuName:Helia Core
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helia Core
+WritingScript:Roman
+OutlineFileName:\HeliaCore-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:107940
+FileModTime:1378156124
+NameArray:0,Mac,4,Helia Core
+NameArray:0,Win,1,Helia Core
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Kleide-BoldItalic
+FamilyName:Kleide
+StyleName:Bold Italic
+MenuName:Kleide
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Kleide Bold Italic
+WritingScript:Roman
+OutlineFileName:\Kleide-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:62636
+FileModTime:1448995407
+NameArray:0,Mac,4,Kleide Bold Italic
+NameArray:0,Win,1,Kleide
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Kleide-Regular
+FamilyName:Kleide
+StyleName:Regular
+MenuName:Kleide
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Kleide
+WritingScript:Roman
+OutlineFileName:\Kleide-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:50136
+FileModTime:1448995388
+NameArray:0,Mac,4,Kleide
+NameArray:0,Win,1,Kleide
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MerryScriptmas-Regular
+FamilyName:Merry Scriptmas
+StyleName:Regular
+MenuName:Merry Scriptmas
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Merry Scriptmas
+WritingScript:Roman
+OutlineFileName:\MerryScriptmas-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:46236
+FileModTime:1386247500
+NameArray:0,Mac,4,Merry Scriptmas
+NameArray:0,Win,1,Merry Scriptmas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1404927645
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Nootype-Regular
+FamilyName:Nootype
+StyleName:Regular
+MenuName:Nootype
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Nootype
+WritingScript:Roman
+OutlineFileName:\Nootype-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:2392
+FileModTime:1444594169
+NameArray:0,Mac,4,Nootype
+NameArray:0,Win,1,Nootype
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-Black
+FamilyName:Radikal
+StyleName:Black
+MenuName:Radikal Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Radikal Black
+WritingScript:Roman
+OutlineFileName:\Radikal-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:86756
+FileModTime:1382370254
+NameArray:0,Mac,4,Radikal Black
+NameArray:0,Win,1,Radikal Black
+NameArray:0,Win,16,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-BlackItalic
+FamilyName:Radikal
+StyleName:Black Italic
+MenuName:Radikal Black
+StyleBits:1
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Radikal Black Italic
+WritingScript:Roman
+OutlineFileName:\Radikal-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:85992
+FileModTime:1382370256
+NameArray:0,Mac,4,Radikal Black Italic
+NameArray:0,Win,1,Radikal Black
+NameArray:0,Win,16,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-Bold
+FamilyName:Radikal
+StyleName:Bold
+MenuName:Radikal
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Radikal Bold
+WritingScript:Roman
+OutlineFileName:\Radikal-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:89924
+FileModTime:1382370257
+NameArray:0,Mac,4,Radikal Bold
+NameArray:0,Win,1,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-BoldItalic
+FamilyName:Radikal
+StyleName:Bold Italic
+MenuName:Radikal
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Radikal Bold Italic
+WritingScript:Roman
+OutlineFileName:\Radikal-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:88732
+FileModTime:1382370258
+NameArray:0,Mac,4,Radikal Bold Italic
+NameArray:0,Win,1,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-Light
+FamilyName:Radikal
+StyleName:Light
+MenuName:Radikal Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Radikal Light
+WritingScript:Roman
+OutlineFileName:\Radikal-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:88628
+FileModTime:1382370259
+NameArray:0,Mac,4,Radikal Light
+NameArray:0,Win,1,Radikal Light
+NameArray:0,Win,16,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-LightItalic
+FamilyName:Radikal
+StyleName:Light Italic
+MenuName:Radikal Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Radikal Light Italic
+WritingScript:Roman
+OutlineFileName:\Radikal-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:88384
+FileModTime:1382370261
+NameArray:0,Mac,4,Radikal Light Italic
+NameArray:0,Win,1,Radikal Light
+NameArray:0,Win,16,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-Medium
+FamilyName:Radikal
+StyleName:Medium
+MenuName:Radikal Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Radikal Medium
+WritingScript:Roman
+OutlineFileName:\Radikal-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:89452
+FileModTime:1382370262
+NameArray:0,Mac,4,Radikal Medium
+NameArray:0,Win,1,Radikal Medium
+NameArray:0,Win,16,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-MediumItalic
+FamilyName:Radikal
+StyleName:Medium Italic
+MenuName:Radikal Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Radikal Medium Italic
+WritingScript:Roman
+OutlineFileName:\Radikal-MediumItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:88748
+FileModTime:1382370263
+NameArray:0,Mac,4,Radikal Medium Italic
+NameArray:0,Win,1,Radikal Medium
+NameArray:0,Win,16,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal
+FamilyName:Radikal
+StyleName:Regular
+MenuName:Radikal
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Radikal
+WritingScript:Roman
+OutlineFileName:\Radikal-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:88580
+FileModTime:1382370264
+NameArray:0,Mac,4,Radikal
+NameArray:0,Win,1,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-Italic
+FamilyName:Radikal
+StyleName:Italic
+MenuName:Radikal
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Radikal Italic
+WritingScript:Roman
+OutlineFileName:\Radikal-RegularItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:87572
+FileModTime:1382370266
+NameArray:0,Mac,4,Radikal Italic
+NameArray:0,Win,1,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-Thin
+FamilyName:Radikal
+StyleName:Thin
+MenuName:Radikal Thin
+StyleBits:0
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Radikal Thin
+WritingScript:Roman
+OutlineFileName:\Radikal-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:89024
+FileModTime:1382370267
+NameArray:0,Mac,4,Radikal Thin
+NameArray:0,Win,1,Radikal Thin
+NameArray:0,Win,16,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-ThinItalic
+FamilyName:Radikal
+StyleName:Thin Italic
+MenuName:Radikal Thin
+StyleBits:1
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Radikal Thin Italic
+WritingScript:Roman
+OutlineFileName:\Radikal-ThinItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:88136
+FileModTime:1382370268
+NameArray:0,Mac,4,Radikal Thin Italic
+NameArray:0,Win,1,Radikal Thin
+NameArray:0,Win,16,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-UltraThin
+FamilyName:Radikal
+StyleName:UltraThin
+MenuName:Radikal UltraThin
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:Radikal UltraThin
+WritingScript:Roman
+OutlineFileName:\Radikal-UltraThin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:76572
+FileModTime:1382370270
+NameArray:0,Mac,4,Radikal UltraThin
+NameArray:0,Win,1,Radikal UltraThin
+NameArray:0,Win,16,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Radikal-UltraThinItalic
+FamilyName:Radikal
+StyleName:UltraThin Italic
+MenuName:Radikal UltraThin
+StyleBits:1
+WeightClass:200
+WidthClass:5
+AngleClass:1
+FullName:Radikal UltraThin Italic
+WritingScript:Roman
+OutlineFileName:\Radikal-UltraThinItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:77512
+FileModTime:1382370271
+NameArray:0,Mac,4,Radikal UltraThin Italic
+NameArray:0,Win,1,Radikal UltraThin
+NameArray:0,Win,16,Radikal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Selfica-Regular
+FamilyName:Selfica
+StyleName:Regular
+MenuName:Selfica
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Selfica Regular
+WritingScript:Roman
+OutlineFileName:\Selfica.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:114520
+FileModTime:1388405281
+NameArray:0,Mac,4,Selfica Regular
+NameArray:0,Win,1,Selfica
+%EndFont
+

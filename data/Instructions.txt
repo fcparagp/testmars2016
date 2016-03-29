@@ -1,0 +1,136 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : Site Nootype new.indd
+
+DATE D'ASSEMBLAGE : 06.12.15 19:16
+Date de création : 06.12.15
+Date de modification : 06.12.15
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :Page1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+
+POLICES
+30 Police(s) utilisée(s); 0 Manquant(e)(s), 5 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+
+Polices assemblées
+- Nom : Devinyl-Regular; Type : Type 1, Etat : Incorporé(e)(s)
+- Nom : DevinylInlineOne-Regular; Type : Type 1, Etat : Incorporé(e)(s)
+- Nom : DevinylInlineTwo-Regular; Type : Type 1, Etat : Incorporé(e)(s)
+- Nom : DevinylLineOne-Regular; Type : Type 1, Etat : Incorporé(e)(s)
+- Nom : DevinylLineTwo-Regular; Type : Type 1, Etat : Incorporé(e)(s)
+- Nom : Dorica-Regular; Type : OpenType Type 1, Etat : OK
+- Nom : Felice-Bold; Type : OpenType Type 1, Etat : OK
+- Nom : Felice-Regular; Type : OpenType Type 1, Etat : OK
+- Nom : Fitigraf; Type : OpenType Type 1, Etat : OK
+- Nom : HeliaCore; Type : OpenType Type 1, Etat : OK
+- Nom : Kleide-BoldItalic; Type : OpenType Type 1, Etat : OK
+- Nom : Kleide-Regular; Type : OpenType Type 1, Etat : OK
+- Nom : MerryScriptmas-Regular; Type : OpenType Type 1, Etat : OK
+- Nom : MinionPro-Regular; Type : OpenType Type 1, Etat : OK
+- Nom : Nootype-Regular; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-Black; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-BlackItalic; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-Bold; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-BoldItalic; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-Italic; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-Light; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-LightItalic; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-Medium; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-MediumItalic; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-Thin; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-ThinItalic; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-UltraThin; Type : OpenType Type 1, Etat : OK
+- Nom : Radikal-UltraThinItalic; Type : OpenType Type 1, Etat : OK
+- Nom : Selfica-Regular; Type : OpenType Type 1, Etat : OK
+
+
+COULEURS ET ENCRES
+4 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Cyan quadri; Angle : 71.565; Lignes/pouce : 190.000
+- Nom et type : Magenta quadri; Angle : 18.434; Lignes/pouce : 190.000
+- Nom et type : Jaune quadri; Angle : 0.000; Lignes/pouce : 200.000
+- Nom et type : Noir quadri; Angle : 45.000; Lignes/pouce : 212.000
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 83 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible(s)
+Images : 0 Incorporé(e)(s), 79 utilisant l'espace colorimétrique RVB
+
+
+PARAMETRES D'IMPRESSION
+PPD : HP LaserJet 5200, (HP LJet 5200 J342)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Non
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : 100 %, 100 %
+Position de la page : En haut, à gauche
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 px, 0 px, 0 px, 0 px
+Couleur : Composite, Couleurs en noir.
+Mode de recouvrement : Sans
+Envoi des données d'images : Echantillonnage optimisé
+Substitution d'image OPI/DCS : Non
+Format de page : Personnalisé : 3520 px x 2355 px
+Dimensions du papier : 595 px x 842 px
+Orientation : Paysage
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. Site Nootype new.indd; type : Composition Adobe InDesign; taille : 7860K
+2. Dorica-Regular.otf; type : Fichier de polices; taille : 156K
+3. Felice-Bold.otf; type : Fichier de polices; taille : 101K
+4. Felice-Regular.otf; type : Fichier de polices; taille : 101K
+5. Fitigraf.otf; type : Fichier de polices; taille : 342K
+6. HeliaCore-Regular.otf; type : Fichier de polices; taille : 105K
+7. Kleide-BoldItalic.otf; type : Fichier de polices; taille : 61K
+8. Kleide-Regular.otf; type : Fichier de polices; taille : 48K
+9. MerryScriptmas-Regular.otf; type : Fichier de polices; taille : 45K
+10. MinionPro-Regular.otf; type : Fichier de polices; taille : 213K
+11. Nootype-Regular.otf; type : Fichier de polices; taille : 2K
+12. Radikal-Regular.otf; type : Fichier de polices; taille : 86K
+13. Radikal-Black.otf; type : Fichier de polices; taille : 84K
+14. Radikal-BlackItalic.otf; type : Fichier de polices; taille : 83K
+15. Radikal-Bold.otf; type : Fichier de polices; taille : 87K
+16. Radikal-BoldItalic.otf; type : Fichier de polices; taille : 86K
+17. Radikal-RegularItalic.otf; type : Fichier de polices; taille : 85K
+18. Radikal-Light.otf; type : Fichier de polices; taille : 86K
+19. Radikal-LightItalic.otf; type : Fichier de polices; taille : 86K
+20. Radikal-Medium.otf; type : Fichier de polices; taille : 87K
+21. Radikal-MediumItalic.otf; type : Fichier de polices; taille : 86K
+22. Radikal-Thin.otf; type : Fichier de polices; taille : 86K
+23. Radikal-ThinItalic.otf; type : Fichier de polices; taille : 86K
+24. Radikal-UltraThin.otf; type : Fichier de polices; taille : 74K
+25. Radikal-UltraThinItalic.otf; type : Fichier de polices; taille : 75K
+26. Selfica.otf; type : Fichier de polices; taille : 111K

@@ -1,0 +1,80 @@
+{
+	"liste_article": [{
+		"title": "Mon super titre 1",
+		"background-img": "back.jpg",
+		"listeImg": [
+			"img-1.jpg",
+			"img-2.jpg",
+			"img-3.jpg",
+			"img-4.jpg"
+		]
+	}, {
+		"title": "Mon super titre 2",
+		"background-img": "back.jpg",
+		"listeImg": [
+			"img-1.jpg",
+			"img-2.jpg",
+			"img-3.jpg",
+			"img-4.jpg"
+		]
+	}, {
+		"title": "Mon super titre 3",
+		"background-img": "back.jpg",
+		"listeImg": [
+			"img-1.jpg",
+			"img-2.jpg",
+			"img-3.jpg",
+			"img-4.jpg"
+		]
+	}, {
+		"title": "Mon super titre 4",
+		"background-img": "back.jpg",
+		"listeImg": [
+			"img-1.jpg",
+			"img-2.jpg",
+			"img-3.jpg",
+			"img-4.jpg"
+		]
+	}, {
+		"background-img": "back.jpg",
+		"listeImg": [
+			"img-1.jpg",
+			"img-2.jpg",
+			"img-3.jpg",
+			"img-4.jpg"
+		]
+	}, {
+		"title": "Mon super titre 6",
+		"background-img": "back.jpg",
+		"listeImg": [
+			"img-1.jpg",
+			"img-2.jpg",
+			"img-3.jpg",
+			"img-4.jpg"
+		]
+	}, {
+		"title": "Mon super titre 7",
+		"background-img": "back.jpg"
+	}, {
+		"title": "Mon super titre 8",
+		"background-img": "back.jpg",
+		"listeImg": [
+			"img-1.jpg",
+			"img-2.jpg",
+			"img-3.jpg",
+			"img-4.jpg"
+		]
+	}, {
+		"title": "Mon super titre 9",
+		"background-img": "back.jpg",
+		"listeImg": [
+			"img-1.jpg",
+			"img-2.jpg",
+			"img-3.jpg",
+			"img-4.jpg"
+		]
+	}, {
+		"title": "Mon super titre 10",
+		"background-img": "back.jpg"
+	}]
+}
